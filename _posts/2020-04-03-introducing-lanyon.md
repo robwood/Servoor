@@ -1,38 +1,36 @@
 ---
 layout: post
-title: Introducing Lanyon
+title: Servoor
 ---
 
-Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+Servoor est spécialisé dans les services autour du hardware informatique. L'objectif est d'aider les entreprises a trouver la meilleur offre pour maintenir, installer ou configurer  le matériel comme:
+1-serveurs
+2-baies de stockage
+3-équipement réseau
 
-### Built on Poole
+### 
 
-Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Lanyon here) includes the following:
+la vie d'un outil informatique (matériel ou logiciel) commence avant son achat. Bien avant l'investissemnt, Il faut définir l'architecture de son système brique par brique pour 
+au final constituer un ensemble cohérent, qui va délivrer le résultat escompté. Cette architecture plusieurs acteurs :
+*la direction pour les orientations 
+*les utilisateurs pour leurs besoins
+*les architectes ou spécialistes pour le choix des briques
+une fois définie et chiffrée dans un cahier des charges, commence alors le choix des solutions matériel, logiciels et ressources
 
-* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
+### les services concernés
 
-### Lanyon features
+Servoor peut aider sur les phases suivantes
 
-In addition to the features of Poole, Lanyon adds the following:
+* trouver des ressources : architectes
+* choix des offres qui répondent aux besoins définis dans le cahier des charges
+* négocier auprès des fournisseurs
+* proposer des offres d'assurance/maintenance du matériel
 
-* Toggleable sliding sidebar (built with only CSS) via **☰** link in top corner
-* Sidebar includes support for textual modules and a dynamically generated navigation with active link support
-* Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/poole/lanyon#reverse-layout) (right sidebar), available via `<body>` classes
-* [Eight optional color schemes](https://github.com/poole/lanyon#themes), available via `<body>` classes
 
-[Head to the readme](https://github.com/poole/lanyon#readme) to learn more.
+[Head to the readme](https://servoor.com) pour en savoir plus.
 
 ### Browser support
 
 Lanyon is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
 
-### Download
 
-Lanyon is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/lanyon">GitHub repository</a> for downloads, bug reports, and features requests.
-
-Thanks!
