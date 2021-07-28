@@ -4,9 +4,9 @@ title: Servoor
 ---
 
 Servoor est spécialisé dans les services autour du hardware informatique. L'objectif est d'aider les entreprises a trouver la meilleur offre pour maintenir, installer ou configurer  le matériel comme:
-1-serveurs
-2-baies de stockage
-3-équipement réseau
+*1-serveurs
+*2-baies de stockage
+*3-équipement réseau
 
 ### 
 
@@ -15,7 +15,8 @@ au final constituer un ensemble cohérent, qui va délivrer le résultat escompt
 *la direction pour les orientations 
 *les utilisateurs pour leurs besoins
 *les architectes ou spécialistes pour le choix des briques
-une fois définie et chiffrée dans un cahier des charges, commence alors le choix des solutions matériel, logiciels et ressources
+une fois définie et chiffrée dans un cahier des charges, commence alors le choix des solutions matériel, logiciels et ressources. Maintenant que les briques sont identifiées chiffrées et validées, commence alors la recherche des offres sur le marché. Cette étape peut etre plus au moins longue. Elle commence par chercher les fournisseurs de chaque brique. Certains fournisseurs peuvent avoir plusieurs briques (serveurs, stockage, réseau).
+
 
 ### les services concernés
 
@@ -24,7 +25,7 @@ Servoor peut aider sur les phases suivantes
 * trouver des ressources : architectes
 * choix des offres qui répondent aux besoins définis dans le cahier des charges
 * négocier auprès des fournisseurs
-* proposer des offres d'assurance/maintenance du matériel
+* proposer des offres d'assurance/maintenance 
 
 
 [Head to the readme](https://servoor.com) pour en savoir plus.
