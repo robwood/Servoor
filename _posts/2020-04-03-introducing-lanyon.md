@@ -4,9 +4,10 @@ title: Servoor
 ---
 
 Servoor est spécialisé dans les services autour du hardware informatique. L'objectif est d'aider les entreprises a trouver la meilleur offre pour maintenir, installer ou configurer  le matériel comme:
-*1-serveurs
-*2-baies de stockage
-*3-équipement réseau
+
+*serveurs
+*baies de stockage
+*équipement réseau
 
 ### 
 
@@ -28,7 +29,7 @@ Servoor peut aider sur les phases suivantes
 * proposer des offres d'assurance/maintenance 
 
 
-[Head to the readme](https://servoor.com) pour en savoir plus.
+[pour en savoir plus](https://servoor.com) .
 
 ### Browser support
 
